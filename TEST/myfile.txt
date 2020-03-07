@@ -1,2 +1,3 @@
 this is a text file, changes to the end of the file.
 this is a new line for testing as well.
+this is the bug fix
